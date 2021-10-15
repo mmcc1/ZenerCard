@@ -3,6 +3,7 @@
 ZenerCard is a fun little program to test your psychic abilities (or prove they do not exist).  Specifically, the program tests the ability to predict the future. 
  
 How it works 
+ 
 After clicking 'Start', click one of the Zener Cards presented, this will be your selection.  The program will then pick a card at random using RNGCryptoServiceProvider (a cryptographic source of random numbers) and will compare the cards.  The statistics will be updated after each selection. The test does not end, but the stats can be reset.
  
 Are you psychic?
