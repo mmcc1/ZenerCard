@@ -10,9 +10,9 @@ Are you psychic?
 
 After a sustained period, for example every 100 incorrect answers, note your '% correct': 
  
-under 35% - Essentially chance 
-35-45 - Could be a fluke 
-45-60 - Raised eyebrow 
-60-100 - You are going to be famous 
+under 35% - Essentially chance  
+35-45 - Could be a fluke   
+45-60 - Raised eyebrow  
+60-100 - You are going to be famous  
 
 The longer the test is performed, the more accurate the test is.  Try runs of a few thousand selections to get the best results.
